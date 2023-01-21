@@ -1,4 +1,4 @@
-# carousel-hero-sneakers
+# Carousel Hero Sneaker-s
 
 My Flutter Development Experiment with multiple animations on carousel
 
